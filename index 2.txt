@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://kit.fontawesome.com/276cdc04bc.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="style.css">
+  <title>My Linktree</title>
+</head>
+<body>
+
+  <center>
+    <h2>my linktree</h2>
+    <img src="C:\Users\yerik\OneDrive\Dokumen\iko\WhatsApp Image 2022-06-18 at 08.17.44.jpeg""" alt="">
+    <div class="projek">
+      <a href="https://qilearn.vercel.app/Website%20Belajar/home.html">my learning</a>
+    </div>
+    <a href="https://wa.me/+6285692202174"><i class="fa-brands fa-whatsapp-square fa-2x"></i></a>
+    <a href="https://instagram.com/yericoyabestian"><i class="fa-brands fa-instagram-square fa-2x"></i></a>
+    <a href="https://facebook.com/Yeriko Yabestian"><i class="fa-brands fa-facebook-square fa-2x"></i></a>
+  </center>
+  
+</body>
+</html>

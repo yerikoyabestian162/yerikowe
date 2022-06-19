@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+img {
+  display: block;
+  width: 180px;
+  height: 220px;
+  border-radius: 50px;
+  border: 3px solid cyan;
+  margin: 20px 0;
+}
+
+h2 {
+  font-family: Kdam Thmor Pro;
+  text-shadow: red -2px 0, cyan 2px 0;
+  letter-spacing: 2px;
+}
+
+.projek a {
+  display: block;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: bold;
+  text-transform: uppercase;
+  width: 450px;
+  height: 30px;
+  background-color: cyan;
+  line-height: 30px;
+  border-radius: 20px;
+  color: black;
+  margin-bottom: 30px;
+}
+
+.projek a:hover {
+  background-color: rgb(23, 136, 136);
+  transition: .3s;
+  color: white;
+}
+
+.fa-whatsapp-square {
+  color: green;
+}
+
+.fa-instagram-square {
+  color: purple;
+}
+
+.fa-facebook-square {
+  color: blue;
+}
+
+@media (max-width : 400px){
+  .projek a {
+    width: 300px;
+  }
+}
